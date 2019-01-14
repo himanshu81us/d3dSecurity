@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c8d2f48-1e55-401f-827a-b16f93d9025b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/d3dsecurity_training$Scenario__Varify_account_field_with_characters__.ic" NAME="Scenario: Varify account field with characters . Coverage Results" MODIFIED="1544972428770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/CommonDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/Register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/hooks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/Register.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/javaprograms/forloops.java" />
+        <option value="$PROJECT_DIR$/src/test/java/new_cutomer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/new_customer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/training/com/stepdefinition/new_customer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/training/com/stepdefinitions/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/training/Com/Definition/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/training/COM/stepdefinition/quote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/quote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/training/com/stepdefinition/quote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/Featurefiles/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/Resourses/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/Com/StepDefinations/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/StepDefinations/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/store/banking.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinations/banking.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinations/Quote1.java" />
+        <option value="$PROJECT_DIR$/src/test/store/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/store/StepDefinations/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinations/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/store/banking.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/banking.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/store/Quote.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/store/Training/COM/StepDefinations/Quote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Javaprograms/array.java" />
+        <option value="$PROJECT_DIR$/src/test/store/Register.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/papajones.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/papajones_profile.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/Aumkar.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/aumkar.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/aumkar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/aumkar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/papajones.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/NHS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nhs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/nhs.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/nhs.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/NJHS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/CommenDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/CommonDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/Register.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/rubcukes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/runcukes.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/new_customer.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/Register.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/banking.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/Quote.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/github.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="d3dsecurity_training" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="401" />
+    <option name="width" value="1400" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="d3dsecurity_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3dsecurity_training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3dsecurity_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3dsecurity_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3dsecurity_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3dsecurity_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3dsecurity_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3dsecurity_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3dsecurity_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3dsecurity_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3dsecurity_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3dsecurity_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="COM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3dsecurity_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3dsecurity_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="COM" type="462c0819:PsiDirectoryNode" />
+              <item name="StepDefinations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3dsecurity_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3dsecurity_training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547500729804" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-bash.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\himan\IdeaProjects\d3dsecurity_training\src\test\java\Training\COM\StepDefinations" />
+      <recent name="C:\Users\himan\IdeaProjects\d3dsecurity_training\src\test\java" />
+      <recent name="C:\Users\himan\IdeaProjects\d3dsecurity_training\src\test\Training\COM" />
+      <recent name="C:\Users\himan\IdeaProjects\d3dsecurity_training\src\test\Training" />
+      <recent name="C:\Users\himan\IdeaProjects\d3dsecurity_training\src\test\store\StepDefinations" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.runcukes">
+    <configuration name="Feature: nhs" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/nhs.feature" />
+      <option name="GLUE" value="Training.COM.StepDefinations" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="d3dsecurity_training" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: nhs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Varify Quote form using valid name field (3)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Register.feature" />
+      <option name="GLUE" value="Training.COM.StepDefinations" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="d3dsecurity_training" />
+      <option name="NAME_FILTER" value="^Varify Quote form using valid name field$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Varify Quote form using valid name field$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Varify Quote form using valid name field" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Varify Quote form using valid name field" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/store/Quote.feature" />
+      <option name="GLUE" value="StepDefinations" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="d3dsecurity_training" />
+      <option name="NAME_FILTER" value="^Varify Quote form using valid name field$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Varify Quote form using valid name field$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Varify Quote form using valid name field" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: launch url (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/nhs.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="d3dsecurity_training" />
+      <option name="NAME_FILTER" value="^launch url$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^launch url$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: launch url" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rubcukes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="d3dsecurity_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Training.COM.StepDefinations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Training.COM.StepDefinations" />
+      <option name="MAIN_CLASS_NAME" value="Training.COM.StepDefinations.rubcukes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runcukes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="d3dsecurity_training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Training.COM.StepDefinations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Training.COM.StepDefinations" />
+      <option name="MAIN_CLASS_NAME" value="Training.COM.StepDefinations.runcukes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: nhs" />
+      <item itemvalue="Cucumber java.Scenario: Varify Quote form using valid name field (3)" />
+      <item itemvalue="Cucumber java.Scenario: Varify Quote form using valid name field" />
+      <item itemvalue="Cucumber java.Scenario: launch url (1)" />
+      <item itemvalue="JUnit.rubcukes" />
+      <item itemvalue="JUnit.runcukes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.runcukes" />
+        <item itemvalue="JUnit.rubcukes" />
+        <item itemvalue="Cucumber java.Scenario: Varify Quote form using valid name field (3)" />
+        <item itemvalue="Cucumber java.Feature: nhs" />
+        <item itemvalue="Cucumber java.Scenario: launch url (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c8d2f48-1e55-401f-827a-b16f93d9025b" name="Default Changelist" comment="" />
+      <created>1543440999253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543440999253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="rubcukes - 2019.01.05 at 16h 46m 05s.xml">
+      <configuration name="rubcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="rubcukes - 2019.01.05 at 16h 49m 12s.xml">
+      <configuration name="rubcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.01.05 at 16h 53m 55s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.01.05 at 16h 54m 30s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.01.05 at 16h 57m 26s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.01.05 at 17h 00m 48s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.01.05 at 17h 03m 22s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.01.05 at 17h 06m 10s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.01.05 at 17h 08m 40s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.01.05 at 17h 13m 57s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22761194" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4182015" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32502708" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.30769232" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.33208954" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4182015" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.30769232" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.33208954" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/addition.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/featureFiles/HImanshu.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/featureFiles/addition.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/javaprograms/substraction.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/javaprograms/mixedcode.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/javaprograms/if_cases.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/new_cutomer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/training/com/stepdefinition/new_customer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/training/com/stepdefinitions/new_customer.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/training/com/stepdefinitions/Quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/trainig/com/StepDefinition/Quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/training/Com/Definition/Quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/training/com/stepdefinition/quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Featurefiles/Quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/StepDefinations/Quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinations/register.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinations/banking.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinations/Quote1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/banking.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/store/Training/COM/StepDefinations/Quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/Quote.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/aumkar.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/aumkar.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/papajones_profile.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/papajones.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/NJHS.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/nhs.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/addition1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/methodwithParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/finalcombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/forloops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/ifcasestest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Javaprograms/combining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/nhs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/rubcukes.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/new_customer.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Quote.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/banking.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3dsecurity_training.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/runcukes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="56" selection-start-line="17" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../amazone/src/test/Resources/select.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/CommonDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Register.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/github.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Training/COM/StepDefinations/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>d3dsecurity_training</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
